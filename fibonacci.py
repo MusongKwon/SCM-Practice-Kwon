@@ -10,4 +10,5 @@ def fibonacci(n):
         seq.append(seq[-1] + seq[-2])
         return seq
 
-print(fibonacci(10))
+n = input("Enter the number of Fibonacci numbers to generate: ")
+print(fibonacci(int(n)))
