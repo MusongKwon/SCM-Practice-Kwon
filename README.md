@@ -11,6 +11,6 @@ SCM activities are developed to:
 
 GitHub uses Git, allowing developers to track changes, revert to previous versions, and maintain a history of all modifications.
 
-It allows multiple developers or developing teams can work on the same project simultaneously by creating multiple branches and using pull requests to ensure the separte changes can be implemented together before merging.
+It allows multiple developers or developing teams can work on the same project simultaneously by creating multiple branches and using pull requests to ensure the separate changes can be implemented together before merging.
 
 In addition, GitHub maintains a full history of changes, allowing for rollbacks if necessary.
